@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Una aplicación web divertida y sencilla para organizar juegos de "Amigo Secreto". Solo ingresa los nombres de los participantes, haz clic en "Sortear amigo" y deja que la magia ocurra. Ideal para fiestas, reuniones familiares o eventos corporativos. ¡No más papeles ni confusiones!
+Una aplicación web divertida y sencilla para organizar juegos de "Amigo Secreto". Solo ingresa los nombres de los participantes, haz clic en "Sortear amigo" y deja que la magia ocurra. 
 
 ## 🖼️ Captura de pantalla
 
